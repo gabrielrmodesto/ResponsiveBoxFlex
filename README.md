@@ -13,3 +13,7 @@ Cards responsive using flexbox
 > Smartphone size
 
 ![Smartphone size](prints/smartphonesize.png)
+
+> Example
+
+![Gif Screen](prints/gif/cards.gif)
