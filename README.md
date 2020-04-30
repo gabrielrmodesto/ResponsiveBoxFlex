@@ -17,3 +17,12 @@ Cards responsive using flexbox
 > Example
 
 ![Gif Screen](prints/gif/cards.gif)
+
+## Techs
+
+- HTML5
+- CSS3 (Flexbox)
+
+## Images
+
+- [Pexels](https://www.pexels.com/)
